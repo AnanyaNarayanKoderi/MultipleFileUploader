@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+  color: red;
+  
+  text-align:center
+}
+
+body{
+  background-color: silver !important;
+  margin-left: 20px !important;
+  font-family: cursive !important; 
+}
+input{
+  border: none !important;
+  border-bottom: 1px solid #282c34 !important;
+}
+
+button{
+  background-color:steelblue !important;
+}
+
+img{
+  width: 200px !important;
+  height:200px !important;
+  float: left !important;
+  margin-right: 10px !important;
+ 
+  
+}
+
+h4{
+  font-weight: normal !important;
+  font-size:20px !important;
+  text-decoration: underline !important;
+  margin-top: 10px !important;
+}
+
+.text{
+  
+  margin: 50px !important;
+}
